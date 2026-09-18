@@ -1,1 +1,1 @@
-# Java
+Pequenas aplicações e desafios de lógica desenvolvidos em Java. Repositório criado para documentar meus estudos na linguagem, focando na sintaxe, manipulação de dados e lógica estruturada em ambiente Java.
